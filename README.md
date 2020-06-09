@@ -5,5 +5,4 @@ start the environment:
 
   `-npm start`
   
-and open your file
- 
+and launch your server 
