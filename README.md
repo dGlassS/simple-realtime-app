@@ -3,7 +3,7 @@ very simple instant message application in (nodejs, react, socket.io)
 
 start the environment:
 
-  -npm start
+  `-npm start`
   
 and open your file
  
