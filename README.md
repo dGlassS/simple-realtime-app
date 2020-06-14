@@ -1,5 +1,5 @@
 # simple-realtime-app
-very simple instant message application in (nodejs, react, socket.io)
+Very simple instant message application in nodejs, react and socket.io.
 
 INSTALLING :
   
